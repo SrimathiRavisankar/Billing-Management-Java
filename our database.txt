@@ -1,0 +1,12 @@
+select * from transport;
+select * from store;
+select * from employee;
+select * from customer;
+select * from suppro;
+select * from m;
+select * from bil;
+truncate table transport;
+truncate table store;
+truncate table employee;
+truncate table customer;
+truncate table bil;
